@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub page 😎
+
+I'm Rafael Mamede, a brazilian student of computer engineering that likes to program and solve challenges. I have studied the development of web and desktop aplications, using the following technologies: C++, Java , JavaScript, HTML and CSS. Actually, I'm studying some frameworks to web and mobile development, as well as Vue and React.
 
 <!--
 **faelmamede/faelmamede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
