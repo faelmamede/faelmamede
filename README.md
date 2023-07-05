@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub page 😎
 
-I'm Rafael Mamede, a brazilian student of computer engineering that likes to program and solve challenges. I have studied the development of web and desktop aplications, using the following technologies: C++, Java , JavaScript, HTML and CSS. Actually, I'm studying some frameworks to web and mobile development, as well as Vue and React.
+I'm Rafael Mamede, a brazilian computer engineer that likes to program and to solve challenges. I have being related to the development of web aplications, using the following technologies: Java, SpringBoot, JavaScript, HTML and CSS.
 
 <a href="https://www.linkedin.com/in/r-mamede/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Mamede-blue?style=social&logo=linkedin" />
 </a>
